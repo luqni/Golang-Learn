@@ -49,5 +49,7 @@ func main(){
 	c := circle{radius: 5}
 	
 	measure(r)
-    measure(c)
+	measure(c)
+	
+	//interface sederhana
 }
